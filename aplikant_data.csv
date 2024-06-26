@@ -1,0 +1,10 @@
+Ime prezime,Vozrast,Grad,Pridones,Vraboten,Staz,Postoechki kredit,Kredit,Meseci za plakanje,Zirant,Zirant vozrast,Zirant vraboten,Zirant staz,Zirant pridones,Hipoteka,Hipoteka vrednost,Kredit status
+Mihail,23,Bitola,60000,da,2,ne,100000,12,,,,,,,,Odobren
+Boban,29,Skopje,6000,da,2,da,10000,12,da,40,da,6,30000,da,120000,Odobren
+Andrej,18,Skopje,16000,ne,,da,10000,24,ne,0,ne,0,0,ne,0,Odbien
+Ana Aneska,45,Stip,28000,da,0,da,400000,36,ne,0,ne,0,0,da,600000,Odobren
+Mihail,23,Tetovo,100000,ne,,ne,200000,12,ne,0,ne,0,0,da,300000,Odobren
+Vasko,23,Tetovo,100000,ne,,ne,200000,12,ne,0,ne,0,0,da,300000,Odobren
+Anabel,40,Struga,120000,da,10,ne,60000,12,,,,,,,,Odobren
+Mihail,60,Skopje,50000,da,40,ne,250000,24,,,,,,,,Odobren
+Mihail Siljanovski,23,Bitola,9000,ne,,ne,60000,24,,,,,,,,Odbien
